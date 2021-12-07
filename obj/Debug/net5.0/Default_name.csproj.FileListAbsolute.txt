@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Default_name\bin\Debug\net5.0\Default_name.exe
+C:\Users\Admin\Desktop\Default_name\bin\Debug\net5.0\Default_name.deps.json
+C:\Users\Admin\Desktop\Default_name\bin\Debug\net5.0\Default_name.runtimeconfig.json
+C:\Users\Admin\Desktop\Default_name\bin\Debug\net5.0\Default_name.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Default_name\bin\Debug\net5.0\Default_name.dll
+C:\Users\Admin\Desktop\Default_name\bin\Debug\net5.0\ref\Default_name.dll
+C:\Users\Admin\Desktop\Default_name\bin\Debug\net5.0\Default_name.pdb
+C:\Users\Admin\Desktop\Default_name\obj\Debug\net5.0\Default_name.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Default_name\obj\Debug\net5.0\Default_name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Default_name\obj\Debug\net5.0\Default_name.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Default_name\obj\Debug\net5.0\Default_name.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Default_name\obj\Debug\net5.0\Default_name.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Default_name\obj\Debug\net5.0\Default_name.dll
+C:\Users\Admin\Desktop\Default_name\obj\Debug\net5.0\ref\Default_name.dll
+C:\Users\Admin\Desktop\Default_name\obj\Debug\net5.0\Default_name.pdb
+C:\Users\Admin\Desktop\Default_name\obj\Debug\net5.0\Default_name.genruntimeconfig.cache
